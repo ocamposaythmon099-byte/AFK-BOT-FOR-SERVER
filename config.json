@@ -1,7 +1,7 @@
 {
     "server": {
-        "host": "testsmc.aternos.me",
-        "port": 31230,
+        "host": "siuu-UNT8.aternos.me",
+        "port": 36470,
         "version": "1.16.5"
     },
     "bot": {
